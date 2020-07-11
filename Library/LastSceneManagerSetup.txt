@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/SingleMulti.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

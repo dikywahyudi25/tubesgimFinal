@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SingleMulti.unity
+    guid: 39c016b3c599d984eaa08af9249a46bb
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 7bbec19e97f3ccb448b95a9620e66ce4
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 7d338d7fe73df9a4ea5711e2b52d3874
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ca3687100983ec74abdadfb6ac41558c
+  - enabled: 1
+    path: Assets/Scenes/GameOver2.unity
+    guid: 6e82aadba235a2e4ea170da64544d5d3
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 741788cf18949d140ac12d6e2522f9e2
+  - enabled: 1
+    path: Assets/Scenes/GameOver3.unity
+    guid: e3e95413f321e66478e9b7b4ca3773ea
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 782651197b8783245933187c9d976116
+  - enabled: 1
+    path: Assets/Scenes/GameOver4.unity
+    guid: 4e5c570a25597074688ef30ca9483644
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 35e1ab86cd83a564891ece50135884a8
+  - enabled: 1
+    path: Assets/Scenes/GameOver5.unity
+    guid: 0a8d7be897d3e164786e4211309fd5fe
+  - enabled: 1
+    path: Assets/Scenes/Succes.unity
+    guid: db507be74f5eebe4e99f66a48faa5751
+  - enabled: 1
+    path: Assets/Scenes/NextLevel.unity
+    guid: 7f136bf47a692d7429de8aa9c8e51483
+  - enabled: 1
+    path: Assets/Scenes/NextLevel 1.unity
+    guid: 19ad0c94215cb6c4ca64704363ba68d0
+  - enabled: 1
+    path: Assets/Scenes/NextLevel 2.unity
+    guid: b7b57be7afbd5104aa3b8a30abc9e79a
+  - enabled: 1
+    path: Assets/Scenes/NextLevel 3.unity
+    guid: 54bda95339b823944995ed26ac65f65b
+  - enabled: 1
+    path: Assets/Scenes/Player1Win.unity
+    guid: bc1a8e1b01774344e9ffff54c9c2f80e
+  - enabled: 1
+    path: Assets/Scenes/Player2Win.unity
+    guid: 62e142ae1c47f4f4ca664ca1aa629b8c
+  - enabled: 1
+    path: Assets/Scenes/Player1Win 2.unity
+    guid: b33835fa458c1da4fba2d91128299b4b
+  - enabled: 1
+    path: Assets/Scenes/Player2Win 2.unity
+    guid: 5c9f4ab8b021c6244b8fee7fe78f2a97
+  - enabled: 1
+    path: Assets/Scenes/Player1Win 3.unity
+    guid: 3e7ad9cc6bd9e584e96996ec73cb6261
+  - enabled: 1
+    path: Assets/Scenes/Player2Win 3.unity
+    guid: 486729b663d0a8f43ad69cd12f86169b
+  - enabled: 1
+    path: Assets/Scenes/Player1Win 4.unity
+    guid: 0ec419ca2cecf5844958ddd121eeb9bc
+  - enabled: 1
+    path: Assets/Scenes/Player2Win 4.unity
+    guid: 28e6aa855e6faad429aca9adff5c0ee2
+  - enabled: 1
+    path: Assets/Scenes/Player1Win 5.unity
+    guid: e9aca75d57b0fe4479ea9cfda47c7a91
+  - enabled: 1
+    path: Assets/Scenes/Player2Win 5.unity
+    guid: 829987713f470c342b69268e2bb7b23e
+  - enabled: 1
+    path: Assets/Scenes/multi1.unity
+    guid: 90e6afb24eb406249be0d5feb08f641e
+  - enabled: 1
+    path: Assets/Scenes/multi2.unity
+    guid: 71517d20ec401784d92513a2690bff02
+  - enabled: 1
+    path: Assets/Scenes/multi3.unity
+    guid: 8fc8d3af5aaee2e4ab840e3c0dae069d
+  - enabled: 1
+    path: Assets/Scenes/multi4.unity
+    guid: 82fa1efe2bc087b429aaed85c8c1c2a5
+  - enabled: 1
+    path: Assets/Scenes/multi5.unity
+    guid: d17be0323cf0f924290c89ea9de8619f
+  - enabled: 1
+    path: Assets/Scenes/play.unity
+    guid: 0bfad9c42d7d588438f4fc758457f371
+  m_configObjects: {}
